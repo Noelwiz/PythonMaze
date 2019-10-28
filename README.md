@@ -1,43 +1,10 @@
 # PythonMaze
 maze for a pythone maze bot
 
-Note to myself:
-okay, create a "maze" object, with properties like size, goal, position ect generate it, store it as a global variable maybe that will alow us to work with this
+This is something I started in my first cs class in college because I wanted to do something fun. I the master branch is a rewrite I attempted to start in 2018, while the other branch is my origional attempt. 
 
-could require size for the int function, and instead gen it after getting size from the user, via the response
+BOTH VERSIONS ARE NOT FINISHED, AND DO NOT REALLY WORK PROPERLY. 
 
-hmm if i do global current maze, what happens when we have multiple servers, will servers using the same bot user share  mazes? can we fix that?
+I wanted to share this to just give some encouragment to some other people just starting out in the cs major and having difficulty. A lot of concepts are hard at first, it's hard to care about arrays, or search algorithems or something when you don't know how you'd use it. I just wanted to have fun making a maze generator, and discord provided a fun console to interact with when using it. over the course of the cs141 I was learning a lot of new things havening barely coded before, and it's amazing how often we'd learn something and I'd realize that it would solve one of the problems I was having making this bot, or provide a better way to do something, or explain why something happened. It also ment that as I moved on, more stuff I had early exposure too, and investment in learning. Best of all this was something fun that didn't have a grade attached to it. I could just work on it, and enjoy practicing coding in my own way. 
 
-if problem try importing my maze class in the loged on as part of the script,
-might also want to use try when importing, would be like "from file name import class name"
-
-maybe a second class of tiles, with a north south east west property as well as a positon? 
-
-https://en.wikipedia.org/wiki/Maze_generation_algorithm 
-maze gen
-start bot left go to top of row making tiles then new x
-
-check all sides if a side wont exist eg: top edge or left side ect, set it to a wall.
-
-if it allready exists make it match
-
-else rng it
-
-then if a tile would be all walls, change one non permint side (fails with last tile in middle potentally)
-
-order:
--corners
--sides
--middle
-
-
-could gen then test with a bot, bot must reach every tile, or invalid, if invalid regen
-
-alt: start full, then at point a, chose a random existant cell, delete the connecting walls move on, do this untill all adject cells have been visited, then start at a cell missed and do it again, and again
-
-https://en.wikipedia.org/wiki/Prim%27s_algorithm 
-https://en.wikipedia.org/wiki/Maze_generation_algorithm#Randomized_Prim.27s_algorithm 
-
-YO USE A DICTIONARY SO EACH SERVER CAN HAVE ITS OWN MAZE!!!! STORE THE DICTIONARY AS A GLOBAL
-
-Csci chapter 16 stuff is relivent to life
+At this point, I would never show it in it's current state to any employeer as an example of my coding skill, but I hope that it might motivate any students reading this to make an attempt at whatever idea is bouncing around their head, especialy early on. coding for fun helps so much!
