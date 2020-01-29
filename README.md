@@ -1,5 +1,5 @@
 # PythonMaze
-maze for a pythone maze bot
+maze for a python maze bot
 
 This is something I started in my first cs class in college because I wanted to do something fun. I the master branch is a rewrite I attempted to start in 2018, while the other branch is my origional attempt. 
 
