@@ -3,7 +3,7 @@ maze for a python maze bot
 
 This is something I started in my first cs class in college because I wanted to do something fun. I the master branch is a rewrite I attempted to start in 2018, while the other branch is my original attempt. 
 
-BOTH VERSIONS ARE NOT FINISHED, AND DO NOT REALLY WORK PROPERLY. 
+BOTH VERSIONS ARE NOT FINISHED, This is meant as encouragement to other computer science students who are just starting out and having a difficult time, and maybe someday I'll finish it. 
 
 I wanted to share this to just give encouragment to some friends, and any other people just starting out in the cs major and having difficulty. A lot of concepts are hard at first, and it can be hard to care about arrays, or search algorithems or something when you don't know how you'd use it. I just wanted to have fun making a maze generator, and discord provided a fun console to interact with when using it. over the course of the cs141 I was learning a lot of new things havening barely coded before, and it's amazing how often we'd learn something and I'd realize that it would solve one of the problems I was having making this bot, or provide a better way to do something, or explain why something happened. It also ment that as I moved on, more stuff I had early exposure too, and investment in learning. Best of all this was something fun that didn't have a grade attached to it. I could just work on it, and enjoy practicing coding in my own way. 
 
